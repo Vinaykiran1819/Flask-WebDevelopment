@@ -1,6 +1,6 @@
 # Flask - Health Tracker Dashboard
 
-A simple Flask-based web application that helps you track daily health metrics including exercise, meditation, and sleep. This dashboard allows users to enter their daily health data and visualize the data in bar charts.
+A Flask-based web application that helps you track daily health metrics including exercise, meditation, and sleep. This dashboard allows users to enter their daily health data and visualize the data in bar charts.
 
 ## Features
 **Home Page:** Introductory page with a call-to-action button to start tracking health.
